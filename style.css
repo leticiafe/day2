@@ -8,10 +8,7 @@ body{
 h1{
     margin: 0;
 }
-img{
-    height: 250px;
 
-}
 header{
     background-image: url(..//D2/images/glor.jpg);
     background-position: center;
@@ -32,4 +29,8 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+section img{
+    height: 250px;
+
 }
