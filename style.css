@@ -5,11 +5,16 @@ body{
     font-family: 'Caesar Dressing', cursive;
     margin: 0;
 }
+h1{
+    margin: 0;
+}
 header{
     background-image: url(..//D2/images/glor.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 
+    background-size: cover;
+    height: 500px;
+    
 }
 nav{
     align-items: center;
